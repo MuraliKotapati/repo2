@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is 7C5E-EA3C
-
- Directory of C:\Users\DELL\Desktop\Project
-
-22-11-2021  18:34    <DIR>          .
-22-11-2021  18:34    <DIR>          ..
-22-11-2021  18:34                 0 test1.txt
-               1 File(s)              0 bytes
+chande
                2 Dir(s)  120,395,567,104 bytes free
